@@ -1,6 +1,6 @@
 # API-Beispielcode
 
-In diesem Repository ist der minimale Code zur Abfrage der Metropolitan-Museum-API abgelegt. Dokumentation der Schnittstelle: (https://metmuseum.github.io/)
+In diesem Repository ist der minimale Code zur Abfrage der Metropolitan-Museum-API abgelegt. Dokumentation der Schnittstelle: https://metmuseum.github.io/
 
 ## Verwendung
 
