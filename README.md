@@ -8,7 +8,7 @@ Alle Beispiele in diesem Repository sind frei verwendbar, die abgefragten Daten 
 
 ## Zu importierende, bzw. installierende Module
 
-Damit der Code lauffähig ist, müssen die importierten Module z.B. über ´--pip install´ installiert werden. Im Einzelnen:
+Damit der Code lauffähig ist, müssen die importierten Module z.B. über `pip install` installiert werden. Im Einzelnen:
 * requests
 * pymongo
 
